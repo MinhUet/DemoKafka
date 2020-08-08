@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fZAexoqaNnbthrbqdGsYrvBbJ9t5O0/OZ1FqF9jPIP2tONRctPsEgX4WC68iXyRRN1VeGVIXxs3+d7mZBDVEWw==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\DemoKafka\\DemoKafka\\BVMinh.DemoKafka.Entity\\BVMinh.DemoKafka.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buiva\\.nuget\\packages\\mongodb.bson\\2.11.0\\mongodb.bson.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

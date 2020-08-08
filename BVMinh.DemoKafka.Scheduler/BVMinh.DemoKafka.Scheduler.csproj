@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>dotnet-BVMinh.DemoKafka.Scheduler-0E131FF1-EE51-42E2-BCDE-5668367C84B4</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BVMinh.DemoKafka.Common\BVMinh.DemoKafka.Common.csproj" />
+    <ProjectReference Include="..\BVMinh.DemoKafka.DL\BVMinh.DemoKafka.DL.csproj" />
+  </ItemGroup>
+</Project>

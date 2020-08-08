@@ -1,0 +1,9 @@
+E:\C#\DemoKafka\DemoKafka\BVMinh.DemoKafka.Common\bin\Debug\netcoreapp3.1\BVMinh.DemoKafka.Common.deps.json
+E:\C#\DemoKafka\DemoKafka\BVMinh.DemoKafka.Common\bin\Debug\netcoreapp3.1\BVMinh.DemoKafka.Common.dll
+E:\C#\DemoKafka\DemoKafka\BVMinh.DemoKafka.Common\bin\Debug\netcoreapp3.1\BVMinh.DemoKafka.Common.pdb
+E:\C#\DemoKafka\DemoKafka\BVMinh.DemoKafka.Common\obj\Debug\netcoreapp3.1\BVMinh.DemoKafka.Common.csprojAssemblyReference.cache
+E:\C#\DemoKafka\DemoKafka\BVMinh.DemoKafka.Common\obj\Debug\netcoreapp3.1\BVMinh.DemoKafka.Common.AssemblyInfoInputs.cache
+E:\C#\DemoKafka\DemoKafka\BVMinh.DemoKafka.Common\obj\Debug\netcoreapp3.1\BVMinh.DemoKafka.Common.AssemblyInfo.cs
+E:\C#\DemoKafka\DemoKafka\BVMinh.DemoKafka.Common\obj\Debug\netcoreapp3.1\BVMinh.DemoKafka.Common.dll
+E:\C#\DemoKafka\DemoKafka\BVMinh.DemoKafka.Common\obj\Debug\netcoreapp3.1\BVMinh.DemoKafka.Common.pdb
+E:\C#\DemoKafka\DemoKafka\BVMinh.DemoKafka.Common\obj\Debug\netcoreapp3.1\BVMinh.DemoKafka.Common.csproj.CoreCompileInputs.cache

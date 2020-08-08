@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BVMinh.DemoKafka.Common</id>
+    <version>1.0.0</version>
+    <authors>BVMinh.DemoKafka.Common</authors>
+    <owners>BVMinh.DemoKafka.Common</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\C#\DemoKafka\DemoKafka\BVMinh.DemoKafka.Common\bin\Debug\netcoreapp3.1\BVMinh.DemoKafka.Common.dll" target="lib\netcoreapp3.1\BVMinh.DemoKafka.Common.dll" />
+  </files>
+</package>

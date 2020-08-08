@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HZ09kszCEsdL/FkrzT/DLQeDVj3uqrScrTSt6I4t7jPQsKEYxBDrHszzpvzHa5XFR+/CCIUFctYO/LYmDJh5MQ==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\DemoKafka\\DemoKafka\\BVMinh.DemoKafka.Common\\BVMinh.DemoKafka.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buiva\\.nuget\\packages\\confluent.kafka\\1.5.0\\confluent.kafka.1.5.0.nupkg.sha512",
+    "C:\\Users\\buiva\\.nuget\\packages\\librdkafka.redist\\1.5.0\\librdkafka.redist.1.5.0.nupkg.sha512",
+    "C:\\Users\\buiva\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
